@@ -6,3 +6,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 hsuyelin/nas-tools
 --platform=linux/arm64 browserless/chrome
 --platform=linux/arm64 lovechen/embyserver
+--platform=linux/arm64 linuxserver/qbittorrent 
