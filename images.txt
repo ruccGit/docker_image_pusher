@@ -10,3 +10,4 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 linuxserver/jackett
 oldiy/frpc
 --platform=linux/arm64 snowdreamtech/frpc
+ookla/speedtest
