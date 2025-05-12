@@ -10,6 +10,3 @@ kasmweb/nginx:1.25.3
 --platform=linux/arm64 linuxserver/jackett
 oldiy/frpc
 --platform=linux/arm64 snowdreamtech/frpc
-ookla/speedtest
---platform=linux/amd64 ookla/speedtest:3.9.0
---platform=linux/arm/v7 ookla/speedtest
